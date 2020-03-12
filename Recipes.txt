@@ -4,3 +4,4 @@ Welcome to devopstest
 
 kheer
 pasta
+chicken fry
